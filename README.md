@@ -3,9 +3,13 @@
 I'm Stéphane P., aka n3wborn, a "curious about many thing" web developper living in France
 
 First I had a computer, so I wanted to know how it works
+
 Then, I wanted to install an open source OS, so I learned about linux
+
 Then, I wanted to learn how networks works, so I learned about networking
+
 Then, I wanted to learn about website, so I learned web development
+
 Then... here we are
 
 ## 🔧 Things I can do
@@ -31,5 +35,5 @@ Then... here we are
 
 ## Contact Information
 
-- Email: n3wborn <at> pm.me
-- Discord: n3wborn / n3wborn#2982
+- Email: `n3wborn <at> pm.me`
+- Discord: `n3wborn (n3wborn#2982)`
